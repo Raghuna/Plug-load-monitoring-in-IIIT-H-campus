@@ -1,0 +1,101 @@
+mid,category,devicename,specification,location
+1,display,display,hp,bsrc
+2,Computer,desktop,"ZENITH 4 GB i3 2120 500 GB HDD",bsrc
+3,display,display,"LG w1941SE","upper floor"
+4,Computer,"Integrated PC","Zenith  18.5  inches screen 2 GB RAM 320 GB Hard Disk",A3-106
+5,Imaging,Printer,"model ML 2951ND[208 amps laser printer]",B6-204
+6,Other,"Electric cattle","NAPLE 1.5L 220V 1500W 35 Hz","In front of A1-102"
+7,others,oven,,bsrc
+8,Computer,desktop,"dell i4 core",bsrc
+9,Computer,Laptop,"dell inspiron 15R i5 4 GB RAM 2 GB graphic 3rd generation 15.6 inches",bsrc
+10,display,monitor,"lenovo 50/60 Hz Model LS1922WA monitor",ltrc
+11,computer,"integrated PC","zenith eco pc 2 GB ram 320 GB hdd 18.5 lcd",A3-108
+12,display,monitor,"LG W1941se studio works",ltrc
+13,Computer,desktop,"cooler master  LG super multi Intel core I7 3770 cpu 3.40ghz 32 bit OS RAM 16GB  (500W)",B6-204
+14,display,display,"Zenith 4 3 WI941C PF.3TRZEN",A3-110
+15,Display,Display,"Lenovo 50 60 Hz Model LS1922WA",A3-106
+16,Computer,Desktop,"2 GB RAM Zenith intel dual core",A3-106
+17,Computer,Desktop,"HCL 992 MB RAM AMD Athlon 64*2 dual core processsor 2GHz",EERC
+18,display,display,"Zenith 4:3 WI941C PF.3TRZEN",B6-204
+19,computer,"integrated PC","zenith eco pc 2 GB ram 320 GB hdd 18.5 lcd",A3-108
+20,others,others,"coffee machine",canteen
+21,display,display,"Zenith 4:3 WI941C PF.3TRZEN",bsrc
+22,computer,desktop,,
+23,display,monitor,"monitor lenova think vision","girish admin exec"
+24,Imaging,printer,"HP laserjet pro 400 MFFM425dn",SPCRC
+25,router,router,"linksys SD208 8 port 10/100 switch",A1-102
+26,Others,"Induction stove","model PIC 3.0 V2   2000 watts  50hz","girls hostel"
+27,Imaging,Printer,"samsung rv411",accounts
+28,computer,desktop,,A1-102
+29,,,,
+30,Imaging,Printer,"HP laserjet pro 400 MFFM425dn",CITE
+31,computer,desktop,"zenith 2GB ram DDR2(800) E7500 intel dual core",A3-106
+32,others,others,"table fan",A3-110
+33,Imaging,Printer,0,psrc
+34,computer,,,
+35,router,router,3com,A1-101
+36,computer,desktop,"I3 2120 4 GB ram 500 GB hdd",A3-108
+37,Others,Others,"hot box puff heater",canteen
+38,others,others,fridge,bsrc
+39,Computer,desktop,HCL,ltrc
+40,Computer,desktop,"hcl compact disc 52x max","girish admin exec"
+41,other,other,"washing machine","prabhakar sir home"
+42,display,monitor,"hp ",SPCRC
+43,Imaging,Printer,0,"near accounts"
+44,network,"network switch",0,CITE
+45,display,monitor,zenith,ltrc
+46,display,monitor,"aviruch display",bsrc
+47,computer,desktop,"500 GB hdd 2 GB ram(800)",A3-110
+48,computer,desktop,"hp intel",BSRC
+49,others,others,"water cooler",bsrc
+50,display,display,dell,bsrc
+51,imaging,Printer,"printer(hp laserjet M2727nf)",eerc
+52,other,other,TV,"girls hostel"
+53,Imaging,printer,"laser printer model p6p1606D1 all in one","upper floor"
+54,Computer,desktop,"zenith intel core",subhash
+55,display,monitor,"crt monitor 17 inches",ltrc
+56,others,others,"induction stove",canteen
+57,computer,desktop,"500 GB hdd 2 GB ram(800)",A3-108
+58,Computer,desktop,"zenith pc",bsrc
+59,Computer,desktop,zenith,psrc
+60,computer,desktop,"zenith i2 2GB DDr2(667) 320 GB hdd",A3-104
+61,Computer,desktop,"Dell 21.5 led full hd s2240l","upper floor"
+62,computer,"integrated PC","zenith eco pc 2 GB ram 320 GB hdd 18.5 inches lcd",A3-108
+63,display,display,"Lcd 18.5 tv tech",A3-108
+64,Computer,desktop,"hcl compact disc 52x max",LTRC
+65,display,monitor,"hcl compact disc 52x max","balsanthosh admin exec"
+66,display,monitor,"crt monitor 17 inches",ltrc
+67,Computer,desktop,"hcl compact disc 52x max",ltrc
+68,computer,desktop,"asus 3rd  i7 generation nvidia 2GB  gb ram 1 TB hdd hp",bsrc
+69,computer,desktop,"zebronics quad core 2.40 GHz",A3-104
+70,computer,desktop,,eerc
+71,Imaging,printer,,
+72,Imaging,Printer,"laser printer hp invent all in one","ltrc srinivas sir room"
+73,Computer,desktop,,
+74,network,"network switch",,bsrc
+75,computer,desktop,"i3 e7500 2 GB ram 320 GB hdd",A3-108
+76,display,display,"DELL Monitor 18 inches DELL E1914H 18.5 INCH LED BACKLIT LCD MONITOR",B6-204
+77,display,display,"DELL S2240L 21.5 LED FULL HD",eerc
+78,display,display,"zenith model  W19435E PFBTRZEN",A3-106
+79,Imaging,Printer,"HP laserjet pro 400 MFFM425dn",bsrc
+80,others,others,"ice cream cooler kwality wall's TM",canteen
+81,Computer,desktop,"aviruch pc ",bsrc
+82,Computer,desktop,"hcl compact disc 52x max",ltrc
+83,Imaging,"printer xerox","canon image runner 2420L","balsanthosh admin exec"
+84,Computer,desktop,"500 GB hdd 2 GB ram(800)",SPCRC
+85,display,display,hp,bsrc
+86,Computer,desktop,hcl,ltrc
+87,Computer,desktop,"Acer Aspire timeline X i5 Nvidia 1 GB graphic card  15.6 inches 4 GB RAM",B6-204
+88,display,display,"Lcd 17 zenith lm 725",A3-108
+89,display,monitor,"hcl monitor 19 inches",ltrc
+90,display,display,"sony lcd sdm 575a",A3-104
+91,display,monitor,"philips monitor crt monitor 17 inches",ltrc
+92,Computer,desktop,"zenith intel core LG ","balsanthosh admin exec"
+93,display,display,"18.5 TFT LCD (TV TECH)",bsrc
+94,Others,"Microwave oven","RHMGG2002 Reconnect 20L","vindhta canteen"
+95,display,display,15,eerc
+96,network,"network switch",0,psrc
+97,display,display,"Zenith 4:3 WI941C PF.3TRZEN",A3-108
+98,Computer,desktop,"zenith intel core",ltrc
+99,others,others,"imerssion heater",home
+100,Computer,desktop,"Zenith intel core",ltrc
